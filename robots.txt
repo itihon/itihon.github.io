@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ition.github.io/sitemap-index.xml
+Sitemap: https://www.itihon.github.io/sitemap-index.xml
